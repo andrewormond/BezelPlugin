@@ -1,5 +1,5 @@
 # BezelPlugin
-Tizen 2.3 Watch Rotory Bezel Input Plugin for Unity3D
+Tizen 2.3 Watch Rotory Bezel Input Plugin for Unity3D 5.4 (Will not work on 5.5+)
 
 How to:
 
